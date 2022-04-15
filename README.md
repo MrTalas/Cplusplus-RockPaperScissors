@@ -1,6 +1,6 @@
 # Cplusplus-RockPaperScissors
 
-## Simple level Rock Paper Scissors Game.
+Simple level Rock Paper Scissors Game.
 
 
 
